@@ -1,4 +1,4 @@
-# Signals course 2025–2026
+# Signals course 2026
 
 Repository for homework and lecture notes.
 
